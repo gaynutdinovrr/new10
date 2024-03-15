@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cc76c746-bd07-4117-84ec-a60518ffb93a">
+  <name>НовыйМодульRamil4</name>
+  <synonym>
+    <key>ru</key>
+    <value>Новый модуль ramil4</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>
