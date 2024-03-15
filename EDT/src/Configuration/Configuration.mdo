@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="13a18002-0fe3-4e8c-b68d-d8a7f80967e5">
+  <name>Конфигурация</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="8364634a-58d1-4f6f-8672-a5defab86598"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="3f310dcf-92c3-406d-a314-0f791323855c"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="a5efc4cf-8280-46fa-ae59-ff8bd30d9d31"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="40b1f1f3-b6c3-47ef-9a54-9dccc2570655"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="037a3258-07b2-40a3-9179-aa5cf7545768"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="c849107c-f418-4db3-932a-f404382b9d6a"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="51c43297-a322-43de-8f58-a54ac9370dc9"/>
+  <configurationExtensionCompatibilityMode>8.3.17</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <requiredMobileApplicationPermissions>
+    <permission>AllowOSBackup</permission>
+    <use>true</use>
+  </requiredMobileApplicationPermissions>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.17</compatibilityMode>
+  <languages uuid="3674db4d-1755-43f8-b2d5-10a78ba249a5">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <commonModules>CommonModule.НовыйМодуль</commonModules>
+  <commonModules>CommonModule.НовыйМодульRamil</commonModules>
+  <commonModules>CommonModule.НовыйМодульRamil1</commonModules>
+  <catalogs>Catalog.НовыйСправочник</catalogs>
+  <catalogs>Catalog.Справочник1</catalogs>
+  <catalogs>Catalog.Справочник2</catalogs>
+  <catalogs>Catalog.Справочник3</catalogs>
+  <catalogs>Catalog.Справочник4</catalogs>
+  <catalogs>Catalog.Справочник5</catalogs>
+</mdclass:Configuration>
