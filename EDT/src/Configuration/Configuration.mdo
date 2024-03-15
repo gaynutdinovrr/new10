@@ -33,6 +33,7 @@
   <commonModules>CommonModule.НовыйМодуль</commonModules>
   <commonModules>CommonModule.НовыйМодульRamil</commonModules>
   <commonModules>CommonModule.НовыйМодульRamil1</commonModules>
+  <commonModules>CommonModule.НовыйМодульRamil2</commonModules>
   <catalogs>Catalog.НовыйСправочник</catalogs>
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
