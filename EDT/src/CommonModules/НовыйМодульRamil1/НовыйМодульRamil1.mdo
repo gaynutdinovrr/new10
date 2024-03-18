@@ -5,5 +5,7 @@
     <key>ru</key>
     <value>Новый модуль ramil1</value>
   </synonym>
+  <clientManagedApplication>true</clientManagedApplication>
   <server>true</server>
+  <externalConnection>true</externalConnection>
 </mdclass:CommonModule>
